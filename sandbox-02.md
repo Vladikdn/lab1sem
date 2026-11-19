@@ -1,4 +1,4 @@
-# Пісочниця 02 — Біти не брешуть
+# Sandbox 02 — Біти не брешуть
 
 Збірка: c++ -std=c++17 -Wall -Wextra -Werror -fsanitize=address,undefined файл.cpp -o програма && ./програма
 
